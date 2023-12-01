@@ -34,3 +34,7 @@ console.log(s)
 console.log(a)
 console.log(s.get('background'))
 console.log(a === s);
+
+// singleton
+// static 
+// super.(parent method)
